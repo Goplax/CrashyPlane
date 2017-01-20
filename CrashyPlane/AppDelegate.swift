@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  CrashyPlane
 //
-//  Created by Gopal Chandra Nepal on 15/01/2017.
-//  Copyright © 2017 Gopal Chandra Nepal. All rights reserved.
-//
 
 import UIKit
 
