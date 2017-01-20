@@ -212,7 +212,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         let rand = GKRandomDistribution(lowestValue: -100, highestValue: max)
         let yPosition = CGFloat(rand.nextInt())
         
-        let rockDistance: CGFloat = 70 // Gap between rocks is defined here
+        let rockDistance: CGFloat = 50 // Gap between rocks is defined here
         
         //Positioning and animating rock
         topRock.position = CGPoint(x: xPosition, y: yPosition + topRock.size.height + rockDistance)
